@@ -4,8 +4,6 @@ from PyEMD import EMD
 from concatenate import concatenate
 from deconcatenate import deconcatenate
 
-from matplotlib import pyplot as plt
-
 if __name__ == '__main__':
     # toy examples
 

@@ -6,7 +6,7 @@ This is the paper "Serial-EMD: Fast Empirical Mode Decomposition Method for Mult
 
 This method can process multi-dimensional signals with standard EMD or other one-dimensional EMD variations (EEMD, CEEMDAN) at very fast speed.
 
-For more information, please visit our paper: https://arxiv.org/abs/2106.15319
+For more information, please visit our paper: https://doi.org/10.1016/j.ins.2021.09.033
 
 ### Installation
 
@@ -65,32 +65,22 @@ Here we show the results for different EMD variants and serial-EMD variants. You
 
 ### Contact
 
-Free free to contact me with any questions, requests. It's always nice to know that I've helped someone or made their work easier. Contributing to the project is also acceptable and warmly welcomed.
+Feel free to contact me with any questions, requests. It's always nice to know that I've helped someone or made their work easier. Contributing to the project is also acceptable and warmly welcomed.
 
 #### Citation
 
-If you found this package useful and would like to cite it in your work please use the following structure:
+If you found this package useful please cite it in your work using the following structure:
 
 ```
-@article{DBLP:journals/corr/abs-2106-15319,
-  author    = {Jin Zhang and
-               Fan Feng and
-               Pere Mart{\'{\i}}{-}Puig and
-               Cesar F. Caiafa and
-               Zhe Sun and
-               Feng Duan and
-               Jordi Sol{\'{e}}{-}Casals},
-  title     = {Serial-EMD: Fast Empirical Mode Decomposition Method for Multi-dimensional
-               Signals Based on Serialization},
-  journal   = {CoRR},
-  volume    = {abs/2106.15319},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2106.15319},
-  eprinttype = {arXiv},
-  eprint    = {2106.15319},
-  timestamp = {Mon, 05 Jul 2021 15:15:50 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2106-15319.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@article{ZHANG2021,
+title = {Serial-EMD: Fast Empirical Mode Decomposition Method for Multi-dimensional Signals Based on Serialization},
+journal = {Information Sciences},
+year = {2021},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2021.09.033},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025521009646},
+author = {Jin Zhang and Fan Feng and Pere Marti-Puig and Cesar F. Caiafa and Zhe Sun and Feng Duan and Jordi Solé-Casals},
+keywords = {Empirical mode decomposition, Signal serialization}
 }
 ```
 

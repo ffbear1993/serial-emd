@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is the paper "Serial-EMD: Fast Empirical Mode Decomposition Method for Multi-Signals Based on Serialization" with both Python and Matlab implementation.
+This page contains the code, in Python and Matlab implementation, of the method developed in the paper "Serial-EMD: Fast Empirical Mode Decomposition Method for Multi-Signals Based on Serialization".
 
 This method can process multi-dimensional signals with standard EMD or other one-dimensional EMD variations (EEMD, CEEMDAN) at very fast speed.
 
